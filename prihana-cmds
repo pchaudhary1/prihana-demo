@@ -1,0 +1,9 @@
+ --Javascript
+ -- Need to install npm and have the npm package.json
+
+ node ./javascript/pirhana/piranha.js -s ./javascript/Split.js -f Feature-1  -p ./properties.json -t -c
+
+
+--Java
+
+mvn clean compile
