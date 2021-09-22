@@ -1,0 +1,19 @@
+{
+  "methodProperties": [
+    {
+      "methodName": "evaluate",
+      "flagType": "treated",
+      "argumentIndex": 0
+    }
+  ],
+  "enumProperties": [
+    {
+      "enumName": "FF",
+      "argumentIndex": 0
+    }
+  ],
+  "annotations": [
+    "FlagTesting"
+  ]
+}
+
